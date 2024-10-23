@@ -4,10 +4,10 @@
 
 The project focuses on designing a **Smart Glass Cleaning Robot** specifically aimed at high-rise buildings. This robot can efficiently and quickly clean dust and dirt from large glass panels, ensuring hygiene and reducing the risk to human cleaners. The robot is designed to be safe, autonomous, and suitable for commercial applications.
 
-![Robot Image](robotpic/picture1.png) <!-- Replace with the actual image name and path in the repository -->
-![Robot Image](robotpic/picture2.jpg) <!-- Add additional images as needed -->
-![Robot Image](robotpic/picture3.jpg)
-![Robot Image](robotpic/picture4.jpg)
+![Robot Image1](https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/blob/main/robotpic/Picture1.png) <!-- Replace with the actual image name and path in the repository -->
+![Robot Image2](https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/blob/main/robotpic/Picture2.png) <!-- Add additional images as needed -->
+![Robot Image3](https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/blob/main/robotpic/Picture3.png)
+![Robot Image4](https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/blob/main/robotpic/Picture4.png)
 
 ## Table of Contents
 1. [Project Overview](#overview)
